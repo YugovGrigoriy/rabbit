@@ -1,6 +1,8 @@
 import java.util.Arrays;
 import java.util.Comparator;
-
+/*
+Вариант 1
+ */
 class Field {
     int weight;
     int quantity;
